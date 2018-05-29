@@ -1,0 +1,13 @@
+h1 {
+color: red;
+}
+
+p {font-family: 'Helvetica';
+  color: blue;
+  font-size: 16px;
+
+}
+
+ul li {background: yellow;}
+
+ol li{background: teal;}

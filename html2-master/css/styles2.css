@@ -1,0 +1,10 @@
+p {color: black;}
+ul li.nav {background-color: red;
+color: white;}
+#about_blue {color:blue;
+background: #6495ED;}
+#about_yellow {color:orange;
+background: #FFEBCD}
+
+ul li.important {font-size: 16px;
+font-weight: bold;}
